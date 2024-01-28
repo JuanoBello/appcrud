@@ -1,2 +1,2 @@
-# appcrud
- App crud
+# contact-list
+Simple Contact List in React Native
